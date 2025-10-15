@@ -1,4 +1,8 @@
 
+### Before Running Files
+1. Create venv with ```python -m venv venv```
+2. Use the venv with ```./venv/Scripts/activate``` if you're on Windows, or ```source ./venv/bin/activate``` on Linux/Mac
+3. Install necessary dependencies with ```python -m pip install -r requirements.txt```
 
 
 ### Compressed XOR Operation for GEMM
